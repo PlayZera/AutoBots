@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="config">
+    <file>icone_config.png</file>
+  </qresource>
+  <qresource prefix="user">
+    <file>user.png</file>
+  </qresource>
+  <qresource prefix="doc">
+    <file>file.png</file>
+  </qresource>
+  <qresource prefix="testes">
+    <file>test.png</file>
+  </qresource>
+</RCC>

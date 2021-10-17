@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="logo_bg">
+    <file>Logo fundo transparente.png</file>
+  </qresource>
+  <qresource prefix="dev">
+    <file>dev_by.png</file>
+  </qresource>
+  <qresource prefix="sinopse">
+    <file>sinopse.png</file>
+  </qresource>
+</RCC>
